@@ -4,4 +4,4 @@
 
 1. [The Long Goodbye]
 
-[The Long Goodbye]:(The_Long_Goodbye.md)
+[The Long Goodbye]:The_Long_Goodbye.md
