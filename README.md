@@ -6,4 +6,4 @@
 2. [Guns, Gems and Steel]
 
 [The Long Goodbye]:The_Long_Goodbye.md
-[Guns, Gems and Steel]:Guns_Gems_and_Steel.md
+[Guns, Germs and Steel]:Guns_Germs_and_Steel.md
