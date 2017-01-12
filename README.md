@@ -10,4 +10,4 @@
 [The Long Goodbye]:The_Long_Goodbye.md
 [Guns, Germs and Steel]:Guns_Germs_and_Steel.md
 [别闹了，费曼先生]: Surely_You_re_Joking_Mr_Feynman.md
-[Slaughterhouse-Five]:Slaughterhouse_five.md
+[Slaughterhouse-Five]:slaughterhouse_five.md
