@@ -2,13 +2,13 @@
 
 每周读一本书！
 
-1. [The Long Goodbye] ****
-2. [Guns, Germs and Steel] *****
-3. [别闹了，费曼先生] *****
-4. [Slaughterhouse-Five] *****
-5. [尘埃落定] ***
-6. [鞋狗] *****
-7. [你一生的故事] ****
+1. [The Long Goodbye] :star::star::star::star:
+2. [Guns, Germs and Steel] :star::star::star::star:
+3. [别闹了，费曼先生] :star::star::star::star::star:
+4. [Slaughterhouse-Five] :star::star::star::star::star:
+5. [尘埃落定] :star::star::star:
+6. [鞋狗] :star::star::star::star::star:
+7. [你一生的故事] :star::star::star::star:
 
 [The Long Goodbye]:The_Long_Goodbye.md
 [Guns, Germs and Steel]:Guns_Germs_and_Steel.md
