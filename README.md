@@ -2,13 +2,13 @@
 
 每周读一本书！
 
-1. [The Long Goodbye] :ok_hand:
-2. [Guns, Germs and Steel] :ok_hand:
-3. [别闹了，费曼先生] :+1:
-4. [Slaughterhouse-Five] :+1:
-5. [尘埃落定]
-6. [鞋狗] :+1:
-7. [你一生的故事] :ok_hand:
+1. :ok_hand: [The Long Goodbye]
+2. :ok_hand: [Guns, Germs and Steel]
+3. :+1: [别闹了，费曼先生]
+4. :+1: [Slaughterhouse-Five]
+5.   [尘埃落定]
+6. :+1: [鞋狗]
+7. :ok_hand: [你一生的故事] 
 
 [The Long Goodbye]:The_Long_Goodbye.md
 [Guns, Germs and Steel]:Guns_Germs_and_Steel.md
