@@ -6,6 +6,9 @@
 2. [Guns, Germs and Steel]
 3. [别闹了，费曼先生]
 4. [Slaughterhouse-Five]
+5. 尘埃落定
+6. 鞋狗
+7. 你一生的故事
 
 [The Long Goodbye]:The_Long_Goodbye.md
 [Guns, Germs and Steel]:Guns_Germs_and_Steel.md
