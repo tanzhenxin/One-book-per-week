@@ -6,8 +6,8 @@
 2. [Guns, Germs and Steel] :ok_hand:
 3. [别闹了，费曼先生] :+1:
 4. [Slaughterhouse-Five] :+1:
-5. [尘埃落定] :ok_hand:
-6. [鞋狗] :-1:
+5. [尘埃落定]
+6. [鞋狗] :+1:
 7. [你一生的故事] :ok_hand:
 
 [The Long Goodbye]:The_Long_Goodbye.md
