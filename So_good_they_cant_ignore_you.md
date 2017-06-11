@@ -8,7 +8,7 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 听起来很美好，激动不已。但是仿佛并没有什么可操作性。我们还是在过着早九晚五的上班生活，差一点的加班到怀疑人生。Just can't find the passion.
 
-这本书从这个观点切入，第一部分主要驳斥了“追随自己的激情”的观点，强调激情并不能作为选择职业的指导思想。很多时候，either we can't find the dream job, or it's not dream job at all.
+这本书从这个观点切入，第一部分主要驳斥了“追随自己的激情”的观点，强调激情并不能作为选择职业的指导思想。很多时候，要么找不到理想的工作，要么发现理想的工作其实并不那么理想。我们都是凡人，神仙的准则发现其实并没有那么好用。
 
 接下来作者提出了“职场资本”这个概念，所有的内容都围绕职场资本来组织和展开。
 
