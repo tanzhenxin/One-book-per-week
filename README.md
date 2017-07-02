@@ -32,6 +32,7 @@
 8. [沈从文的后半生：1948-1988]
 9. [优秀到不能被忽视]
 10. [把时间当做朋友]
+11. [从文自传]
 
 [The Long Goodbye]:The_Long_Goodbye.md
 [Guns, Germs and Steel]:Guns_Germs_and_Steel.md
@@ -60,3 +61,4 @@
 [优秀到不能被忽视]:So_good_they_cant_ignore_you.md
 [台北人]:https://book.douban.com/subject/5337248/
 [把时间当做朋友]:把时间当做朋友.md
+[从文自传]:https://book.douban.com/subject/20434904/
