@@ -20,6 +20,7 @@
 15. [恋情的终结]
 16. [湘行散记]
 17. [台北人]
+18. [我脑袋里的怪东西]
 
 ## Non-Fiction
 1. [Guns, Germs and Steel]
@@ -62,3 +63,4 @@
 [台北人]:https://book.douban.com/subject/5337248/
 [把时间当做朋友]:把时间当做朋友.md
 [从文自传]:https://book.douban.com/subject/20434904/
+[我脑袋里的怪东西]:https://book.douban.com/subject/26701959/
