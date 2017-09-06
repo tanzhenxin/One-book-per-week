@@ -21,6 +21,7 @@
 16. [湘行散记]
 17. [台北人]
 18. [我脑袋里的怪东西]
+19. [象棋的故事 : 茨威格小说精选]
 
 ## Non-Fiction
 1. [Guns, Germs and Steel]
@@ -34,6 +35,10 @@
 9. [优秀到不能被忽视]
 10. [把时间当做朋友]
 11. [从文自传]
+12. [七堂极简物理课]
+13. [深度工作]
+14. [沃顿商学院最受欢迎的成功课]
+15. [只有偏执狂才能生存]
 
 [The Long Goodbye]:The_Long_Goodbye.md
 [Guns, Germs and Steel]:Guns_Germs_and_Steel.md
@@ -64,3 +69,8 @@
 [把时间当做朋友]:把时间当做朋友.md
 [从文自传]:https://book.douban.com/subject/20434904/
 [我脑袋里的怪东西]:https://book.douban.com/subject/26701959/
+[象棋的故事 : 茨威格小说精选]:https://book.douban.com/subject/24700640/
+[七堂极简物理课]:https://book.douban.com/subject/26772731/
+[深度工作]:深度工作.md
+[沃顿商学院最受欢迎的成功课]:https://book.douban.com/subject/26309534/
+[只有偏执狂才能生存]:https://book.douban.com/subject/5362909/
